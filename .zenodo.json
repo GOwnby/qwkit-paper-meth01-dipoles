@@ -1,4 +1,4 @@
-﻿{
+{
     "description":  "Self-contained repository containing the full reviewed manuscript (METH01_paper.pdf), LaTeX source, qwkit v0.7.0 simulation engine, automated mathematical verification test suite (69 tests), and reproduction scripts/JSON datasets for: Dipoles of nonparabolic quantum-well states: why orthonormalizing the bound states is not enough",
     "upload_type":  "software",
     "creators":  [
