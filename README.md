@@ -1,4 +1,6 @@
-﻿# Dipoles of nonparabolic quantum-well states: why orthonormalizing the bound states is not enough
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444555.svg)](https://doi.org/10.5281/zenodo.23444555)
+
+# Dipoles of nonparabolic quantum-well states: why orthonormalizing the bound states is not enough
 
 **Author:** Gracen Ownby (University of Oklahoma)  
 **Date:** October 2026  
