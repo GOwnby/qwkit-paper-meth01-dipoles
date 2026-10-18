@@ -1,0 +1,82 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Nelson et~al.(1987)Nelson, Miller, and Kleinman]{Nelson1987}
+D.~F. Nelson, R.~C. Miller, and D.~A. Kleinman.
+\newblock Band nonparabolicity effects in semiconductor quantum wells.
+\newblock \emph{Phys. Rev. B}, 35:\penalty0 7770--7773, 1987.
+\newblock \doi{10.1103/PhysRevB.35.7770}.
+
+\bibitem[Ekenberg(1989)]{Ekenberg1989}
+U.~Ekenberg.
+\newblock Nonparabolicity effects in a quantum well: sublevel shift, parallel
+  mass, and {L}andau levels.
+\newblock \emph{Phys. Rev. B}, 40:\penalty0 7714, 1989.
+\newblock \doi{10.1103/PhysRevB.40.7714}.
+
+\bibitem[Sirtori et~al.(1994)Sirtori, Capasso, Faist, and
+  Scandolo]{Sirtori1994}
+C.~Sirtori, F.~Capasso, J.~Faist, and S.~Scandolo.
+\newblock Nonparabolicity and a sum rule associated with bound-to-bound and
+  bound-to-continuum intersubband transitions in quantum wells.
+\newblock \emph{Phys. Rev. B}, 50:\penalty0 8663--8674, 1994.
+\newblock \doi{10.1103/PhysRevB.50.8663}.
+
+\bibitem[Jirauschek and Kubis(2014)]{JirauschekKubis2014}
+C.~Jirauschek and T.~Kubis.
+\newblock Modeling techniques for quantum cascade lasers.
+\newblock \emph{Appl. Phys. Rev.}, 1:\penalty0 011307, 2014.
+\newblock \doi{10.1063/1.4863665}.
+
+\bibitem[Jonasson et~al.(2016)Jonasson, Mei, Karimi, Kirch, Botez, Mawst, and
+  Knezevic]{Jonasson2016}
+O.~Jonasson, S.~Mei, F.~Karimi, J.~Kirch, D.~Botez, L.~Mawst, and I.~Knezevic.
+\newblock Quantum transport simulation of high-power 4.6-$\mu$m quantum cascade
+  lasers.
+\newblock \emph{Photonics}, 3:\penalty0 38, 2016.
+\newblock \doi{10.3390/photonics3020038}.
+
+\bibitem[Mohamed et~al.(2024)Mohamed, {\"O}nder, and Wacker]{Mohamed2024}
+Z.~Mohamed, D.~E. {\"O}nder, and A.~Wacker.
+\newblock Orthonormal and periodic levels for quantum cascade laser simulation.
+\newblock \emph{J. Appl. Phys.}, 136:\penalty0 094301, 2024.
+\newblock \doi{10.1063/5.0228751}.
+
+\bibitem[Form{\'a}nek et~al.(2004)Form{\'a}nek, Lombard, and Mare{\v
+  s}]{Formanek2004}
+J.~Form{\'a}nek, R.~J. Lombard, and J.~Mare{\v s}.
+\newblock Wave equations with energy-dependent potentials.
+\newblock \emph{Czech. J. Phys.}, 54:\penalty0 289--316, 2004.
+\newblock \doi{10.1023/B:CJOP.0000018127.95600.a3}.
+
+\bibitem[L{\"o}wdin(1950)]{Lowdin1950}
+P.-O. L{\"o}wdin.
+\newblock On the non-orthogonality problem connected with the use of atomic
+  wave functions in the theory of molecules and crystals.
+\newblock \emph{J. Chem. Phys.}, 18:\penalty0 365, 1950.
+\newblock \doi{10.1063/1.1747632}.
+
+\bibitem[Carlson and Keller(1957)]{CarlsonKeller1957}
+B.~C. Carlson and J.~M. Keller.
+\newblock Orthogonalization procedures and the localization of {W}annier
+  functions.
+\newblock \emph{Phys. Rev.}, 105:\penalty0 102, 1957.
+\newblock \doi{10.1103/PhysRev.105.102}.
+
+\bibitem[Imam et~al.(2000)Imam, Glytsis, Gaylord, and Anemogiannis]{Imam2000}
+N.~Imam, E.~N. Glytsis, T.~K. Gaylord, and E.~Anemogiannis.
+\newblock Dipole matrix elements of semiconductor intersubband quantum
+  structures.
+\newblock \emph{Superlattices Microstruct.}, 28:\penalty0 11--28, 2000.
+\newblock \doi{10.1006/spmi.2000.0821}.
+
+\bibitem[Ownby(2026)]{qwkit}
+G.~Ownby.
+\newblock qwkit: self-consistent intersubband optics of quantum wells, 2026.
+\newblock version 0.6.2, University of Oklahoma.
+
+\end{thebibliography}

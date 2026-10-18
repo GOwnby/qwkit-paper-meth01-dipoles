@@ -1,0 +1,377 @@
+== ADQW padding 100 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2133, 0.3365], max one-band overlap 0.0253, two-band overlap 1.4e-13, light-particle weight [0.058, 0.1155, 0.2215], states in 0.5/1/2 eV buffers [4, 8, 16]
+   two-band dipoles (A): z12 18.932, z13 8.104, z23 -24.481
+   raw      z12  +1.92% z13  +5.51% z23  +2.39% | peak chi2 / two-band 1.0973
+   raw+100  z12 +15.30% z13 -16.08% z23  +1.84% | peak chi2 / two-band 1.0210
+   norm     z12  -6.19% z13  -7.19% z23 -12.28% | peak chi2 / two-band 0.7672
+   GS       z12  +3.85% z13  +2.04% z23  +2.06% | peak chi2 / two-band 1.0799
+   L-bound  z12  +0.36% z13  +6.76% z23  +2.21% | peak chi2 / two-band 1.0888
+   1st      z12  +0.30% z13  +6.77% z23  +2.17% | peak chi2 / two-band 1.0877
+   1st-all  z12  -0.92% z13  -1.03% z23  -1.21% | peak chi2 / two-band 0.9690
+   L-b2     z12  +0.18% z13  +0.65% z23  -0.07% | peak chi2 / two-band 1.0071
+   L-b10    z12  +0.07% z13  +0.27% z23  +0.06% | peak chi2 / two-band 1.0038
+   L-E0.5   z12  +0.19% z13  +0.53% z23  +0.08% | peak chi2 / two-band 1.0077
+   L-E1.0   z12  +0.07% z13  +0.30% z23  +0.09% | peak chi2 / two-band 1.0042
+   L-E2.0   z12  +0.08% z13  +0.26% z23  +0.06% | peak chi2 / two-band 1.0038
+   L-all    z12  +0.07% z13  +0.25% z23  +0.06% | peak chi2 / two-band 1.0036
+== ADQW padding 150 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2132, 0.3362], max one-band overlap 0.0253, two-band overlap 1.6e-13, light-particle weight [0.0579, 0.115, 0.2194], states in 0.5/1/2 eV buffers [5, 11, 21]
+   two-band dipoles (A): z12 18.940, z13 8.115, z23 -24.535
+   raw      z12  +1.95% z13  +5.61% z23  +2.52% | peak chi2 / two-band 1.1001
+   raw+100  z12 +15.30% z13 -16.37% z23  +2.01% | peak chi2 / two-band 1.0191
+   norm     z12  -6.13% z13  -7.01% z23 -12.08% | peak chi2 / two-band 0.7706
+   GS       z12  +3.87% z13  +2.11% z23  +2.16% | peak chi2 / two-band 1.0819
+   L-bound  z12  +0.37% z13  +6.82% z23  +2.32% | peak chi2 / two-band 1.0906
+   1st      z12  +0.31% z13  +6.83% z23  +2.29% | peak chi2 / two-band 1.0896
+   1st-all  z12  -0.90% z13  -0.79% z23  -1.16% | peak chi2 / two-band 0.9717
+   L-b2     z12  +0.28% z13  +1.07% z23  +0.18% | peak chi2 / two-band 1.0146
+   L-b10    z12  +0.07% z13  +0.37% z23  +0.11% | peak chi2 / two-band 1.0051
+   L-E0.5   z12  +0.10% z13  +0.57% z23  +0.06% | peak chi2 / two-band 1.0067
+   L-E1.0   z12  +0.09% z13  +0.37% z23  +0.07% | peak chi2 / two-band 1.0050
+   L-E2.0   z12  +0.08% z13  +0.32% z23  +0.08% | peak chi2 / two-band 1.0046
+   L-all    z12  +0.08% z13  +0.32% z23  +0.09% | peak chi2 / two-band 1.0045
+== ADQW padding 200 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2132, 0.3362], max one-band overlap 0.0253, two-band overlap 7.6e-14, light-particle weight [0.0579, 0.1149, 0.2192], states in 0.5/1/2 eV buffers [6, 13, 25]
+   two-band dipoles (A): z12 18.940, z13 8.115, z23 -24.540
+   raw      z12  +1.95% z13  +5.62% z23  +2.53% | peak chi2 / two-band 1.1003
+   raw+100  z12 +15.30% z13 -16.39% z23  +2.02% | peak chi2 / two-band 1.0190
+   norm     z12  -6.13% z13  -7.00% z23 -12.06% | peak chi2 / two-band 0.7708
+   GS       z12  +3.87% z13  +2.11% z23  +2.16% | peak chi2 / two-band 1.0820
+   L-bound  z12  +0.37% z13  +6.82% z23  +2.33% | peak chi2 / two-band 1.0908
+   1st      z12  +0.30% z13  +6.83% z23  +2.30% | peak chi2 / two-band 1.0897
+   1st-all  z12  -0.89% z13  -0.59% z23  -1.10% | peak chi2 / two-band 0.9742
+   L-b2     z12  +0.36% z13  +1.75% z23  +0.50% | peak chi2 / two-band 1.0247
+   L-b10    z12  +0.09% z13  +0.47% z23  +0.10% | peak chi2 / two-band 1.0061
+   L-E0.5   z12  +0.19% z13  +0.70% z23  +0.09% | peak chi2 / two-band 1.0094
+   L-E1.0   z12  +0.09% z13  +0.42% z23  +0.09% | peak chi2 / two-band 1.0057
+   L-E2.0   z12  +0.08% z13  +0.37% z23  +0.10% | peak chi2 / two-band 1.0051
+   L-all    z12  +0.08% z13  +0.36% z23  +0.10% | peak chi2 / two-band 1.0051
+== ADQW padding 300 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2132, 0.3362], max one-band overlap 0.0253, two-band overlap 1.7e-13, light-particle weight [0.0579, 0.1149, 0.2192], states in 0.5/1/2 eV buffers [9, 18, 34]
+   two-band dipoles (A): z12 18.940, z13 8.115, z23 -24.540
+   raw      z12  +1.95% z13  +5.62% z23  +2.53% | peak chi2 / two-band 1.1003
+   raw+100  z12 +15.30% z13 -16.40% z23  +2.03% | peak chi2 / two-band 1.0190
+   norm     z12  -6.13% z13  -7.00% z23 -12.06% | peak chi2 / two-band 0.7708
+   GS       z12  +3.88% z13  +2.11% z23  +2.16% | peak chi2 / two-band 1.0820
+   L-bound  z12  +0.37% z13  +6.82% z23  +2.33% | peak chi2 / two-band 1.0908
+   1st      z12  +0.30% z13  +6.83% z23  +2.30% | peak chi2 / two-band 1.0897
+   1st-all  z12  -0.87% z13  -0.35% z23  -1.02% | peak chi2 / two-band 0.9774
+   L-b2     z12  +0.41% z13  +3.05% z23  +1.00% | peak chi2 / two-band 1.0423
+   L-b10    z12  +0.18% z13  +0.69% z23  +0.13% | peak chi2 / two-band 1.0095
+   L-E0.5   z12  +0.12% z13  +0.69% z23  +0.11% | peak chi2 / two-band 1.0086
+   L-E1.0   z12  +0.07% z13  +0.47% z23  +0.14% | peak chi2 / two-band 1.0064
+   L-E2.0   z12  +0.08% z13  +0.43% z23  +0.11% | peak chi2 / two-band 1.0059
+   L-all    z12  +0.08% z13  +0.42% z23  +0.11% | peak chi2 / two-band 1.0058
+== ADQW padding 400 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2132, 0.3362], max one-band overlap 0.0253, two-band overlap 1.0e-13, light-particle weight [0.0579, 0.1149, 0.2192], states in 0.5/1/2 eV buffers [12, 23, 43]
+   two-band dipoles (A): z12 18.940, z13 8.115, z23 -24.540
+   raw      z12  +1.95% z13  +5.62% z23  +2.53% | peak chi2 / two-band 1.1003
+   raw+100  z12 +15.30% z13 -16.40% z23  +2.03% | peak chi2 / two-band 1.0190
+   norm     z12  -6.13% z13  -7.00% z23 -12.06% | peak chi2 / two-band 0.7708
+   GS       z12  +3.88% z13  +2.11% z23  +2.16% | peak chi2 / two-band 1.0820
+   L-bound  z12  +0.37% z13  +6.82% z23  +2.33% | peak chi2 / two-band 1.0908
+   1st      z12  +0.30% z13  +6.83% z23  +2.30% | peak chi2 / two-band 1.0897
+   1st-all  z12  -0.86% z13  -0.22% z23  -0.97% | peak chi2 / two-band 0.9790
+   L-b2     z12  +0.41% z13  +4.02% z23  +1.35% | peak chi2 / two-band 1.0549
+   L-b10    z12  +0.18% z13  +0.80% z23  +0.10% | peak chi2 / two-band 1.0102
+   L-E0.5   z12  +0.19% z13  +0.75% z23  +0.13% | peak chi2 / two-band 1.0102
+   L-E1.0   z12  +0.09% z13  +0.51% z23  +0.12% | peak chi2 / two-band 1.0068
+   L-E2.0   z12  +0.08% z13  +0.45% z23  +0.12% | peak chi2 / two-band 1.0061
+   L-all    z12  +0.08% z13  +0.45% z23  +0.12% | peak chi2 / two-band 1.0061
+== ADQW padding 800 A: 3 bound (edge 0.520 eV), E [0.0865, 0.2132, 0.3362], max one-band overlap 0.0253, two-band overlap 4.9e-14, light-particle weight [0.0579, 0.1149, 0.2192], states in 0.5/1/2 eV buffers [23, 43, 80]
+   two-band dipoles (A): z12 18.940, z13 8.115, z23 -24.540
+   raw      z12  +1.95% z13  +5.62% z23  +2.53% | peak chi2 / two-band 1.1003
+   raw+100  z12 +15.30% z13 -16.40% z23  +2.03% | peak chi2 / two-band 1.0190
+   norm     z12  -6.13% z13  -7.00% z23 -12.06% | peak chi2 / two-band 0.7708
+   GS       z12  +3.88% z13  +2.11% z23  +2.16% | peak chi2 / two-band 1.0820
+   L-bound  z12  +0.37% z13  +6.82% z23  +2.33% | peak chi2 / two-band 1.0908
+   1st      z12  +0.30% z13  +6.83% z23  +2.30% | peak chi2 / two-band 1.0897
+   1st-all  z12  -0.84% z13  -0.04% z23  -0.90% | peak chi2 / two-band 0.9817
+   L-b2     z12  +0.39% z13  +5.84% z23  +1.98% | peak chi2 / two-band 1.0782
+   L-b10    z12  +0.38% z13  +1.08% z23  +0.53% | peak chi2 / two-band 1.0191
+   L-E0.5   z12  +0.14% z13  +0.76% z23  +0.14% | peak chi2 / two-band 1.0097
+   L-E1.0   z12  +0.09% z13  +0.55% z23  +0.14% | peak chi2 / two-band 1.0073
+   L-E2.0   z12  +0.08% z13  +0.50% z23  +0.13% | peak chi2 / two-band 1.0068
+   L-all    z12  +0.08% z13  +0.49% z23  +0.14% | peak chi2 / two-band 1.0066
+== TW padding 100 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1979, 0.3199], max one-band overlap 0.0250, two-band overlap 1.9e-13, light-particle weight [0.0657, 0.0622, 0.1271, 0.2066, 0.2252], states in 0.5/1/2 eV buffers [5, 11, 22]
+   two-band dipoles (A): z12 -12.539, z13 -12.150, z14 -11.023, z23 25.581, z34 23.735
+   raw      z12  -2.26% z13  -5.46% z14  +7.49% z23  -1.78% z34  +2.85% | peak chi2 / two-band 0.9555
+   raw+100  z12 -14.97% z13 -25.52% z14 +13.62% z23  +2.87% z34  +7.11% | peak chi2 / two-band 0.7269
+   norm     z12  -8.13% z13 -13.74% z14  -5.21% z23 -10.23% z34 -11.80% | peak chi2 / two-band 0.7969
+   GS       z12  +4.95% z13  +4.70% z14  +3.03% z23  +2.33% z34  +4.08% | peak chi2 / two-band 1.0907
+   L-bound  z12  -0.01% z13  +0.04% z14  +5.37% z23  -0.06% z34  +0.43% | peak chi2 / two-band 1.0010
+   1st      z12  -0.06% z13  -0.05% z14  +5.55% z23  -0.11% z34  +0.43% | peak chi2 / two-band 0.9997
+   1st-all  z12  -0.55% z13  -0.54% z14  -1.86% z23  -0.54% z34  -1.27% | peak chi2 / two-band 0.9826
+   L-b2     z12  +0.01% z13  +0.23% z14  +0.82% z23  +0.22% z34  +0.11% | peak chi2 / two-band 0.9993
+   L-b10    z12  +0.04% z13  +0.08% z14  +0.33% z23  +0.03% z34  +0.08% | peak chi2 / two-band 1.0005
+   L-E0.5   z12  +0.07% z13  +0.19% z14  +0.51% z23  +0.03% z34  +0.08% | peak chi2 / two-band 1.0011
+   L-E1.0   z12  +0.05% z13  +0.05% z14  +0.27% z23  +0.01% z34  +0.08% | peak chi2 / two-band 1.0009
+   L-E2.0   z12  +0.05% z13  +0.05% z14  +0.25% z23  +0.02% z34  +0.05% | peak chi2 / two-band 1.0008
+   L-all    z12  +0.05% z13  +0.05% z14  +0.24% z23  +0.02% z34  +0.05% | peak chi2 / two-band 1.0008
+== TW padding 150 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1978, 0.3195], max one-band overlap 0.0253, two-band overlap 2.3e-13, light-particle weight [0.0656, 0.0621, 0.127, 0.2041, 0.223], states in 0.5/1/2 eV buffers [7, 14, 27]
+   two-band dipoles (A): z12 -12.535, z13 -12.160, z14 -11.043, z23 25.585, z34 23.763
+   raw      z12  -2.24% z13  -5.38% z14  +7.99% z23  -1.75% z34  +2.94% | peak chi2 / two-band 0.9560
+   raw+100  z12 -14.92% z13 -25.33% z14 +14.69% z23  +2.88% z34  +7.34% | peak chi2 / two-band 0.7276
+   norm     z12  -8.10% z13 -13.65% z14  -4.67% z23 -10.20% z34 -11.63% | peak chi2 / two-band 0.7975
+   GS       z12  +4.96% z13  +4.73% z14  +3.13% z23  +2.34% z34  +4.12% | peak chi2 / two-band 1.0910
+   L-bound  z12  -0.02% z13  +0.03% z14  +5.43% z23  -0.07% z34  +0.45% | peak chi2 / two-band 1.0007
+   1st      z12  -0.07% z13  -0.06% z14  +5.61% z23  -0.11% z34  +0.45% | peak chi2 / two-band 0.9993
+   1st-all  z12  -0.55% z13  -0.52% z14  -1.53% z23  -0.53% z34  -1.25% | peak chi2 / two-band 0.9829
+   L-b2     z12  +0.15% z13  +0.52% z14  +1.71% z23  +0.09% z34  +0.45% | peak chi2 / two-band 1.0023
+   L-b10    z12  +0.01% z13  +0.03% z14  +0.43% z23  +0.02% z34  +0.09% | peak chi2 / two-band 1.0001
+   L-E0.5   z12  +0.08% z13  +0.17% z14  +0.59% z23  -0.00% z34  +0.08% | peak chi2 / two-band 1.0014
+   L-E1.0   z12  +0.04% z13  +0.07% z14  +0.39% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0007
+   L-E2.0   z12  +0.05% z13  +0.06% z14  +0.33% z23  +0.02% z34  +0.06% | peak chi2 / two-band 1.0008
+   L-all    z12  +0.05% z13  +0.06% z14  +0.33% z23  +0.02% z34  +0.06% | peak chi2 / two-band 1.0008
+== TW padding 200 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1978, 0.3195], max one-band overlap 0.0254, two-band overlap 2.8e-13, light-particle weight [0.0656, 0.0621, 0.1269, 0.2037, 0.2227], states in 0.5/1/2 eV buffers [8, 17, 32]
+   two-band dipoles (A): z12 -12.535, z13 -12.161, z14 -11.044, z23 25.585, z34 23.764
+   raw      z12  -2.24% z13  -5.37% z14  +8.04% z23  -1.75% z34  +2.95% | peak chi2 / two-band 0.9560
+   raw+100  z12 -14.92% z13 -25.32% z14 +14.80% z23  +2.88% z34  +7.36% | peak chi2 / two-band 0.7277
+   norm     z12  -8.10% z13 -13.65% z14  -4.61% z23 -10.20% z34 -11.61% | peak chi2 / two-band 0.7975
+   GS       z12  +4.96% z13  +4.73% z14  +3.14% z23  +2.34% z34  +4.12% | peak chi2 / two-band 1.0910
+   L-bound  z12  -0.03% z13  +0.03% z14  +5.42% z23  -0.07% z34  +0.45% | peak chi2 / two-band 1.0006
+   1st      z12  -0.08% z13  -0.07% z14  +5.61% z23  -0.11% z34  +0.45% | peak chi2 / two-band 0.9992
+   1st-all  z12  -0.54% z13  -0.51% z14  -1.58% z23  -0.52% z34  -1.20% | peak chi2 / two-band 0.9831
+   L-b2     z12  +0.25% z13  +0.51% z14  +1.32% z23  +0.04% z34  +0.63% | peak chi2 / two-band 1.0046
+   L-b10    z12  +0.02% z13  +0.05% z14  +0.40% z23  +0.03% z34  +0.12% | peak chi2 / two-band 1.0003
+   L-E0.5   z12  +0.06% z13  +0.17% z14  +0.53% z23  +0.06% z34  +0.14% | peak chi2 / two-band 1.0008
+   L-E1.0   z12  +0.05% z13  +0.07% z14  +0.34% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0009
+   L-E2.0   z12  +0.05% z13  +0.06% z14  +0.32% z23  +0.02% z34  +0.06% | peak chi2 / two-band 1.0009
+   L-all    z12  +0.05% z13  +0.06% z14  +0.32% z23  +0.02% z34  +0.06% | peak chi2 / two-band 1.0009
+== TW padding 300 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1978, 0.3195], max one-band overlap 0.0254, two-band overlap 1.4e-13, light-particle weight [0.0656, 0.0621, 0.1269, 0.2037, 0.2225], states in 0.5/1/2 eV buffers [11, 22, 41]
+   two-band dipoles (A): z12 -12.535, z13 -12.161, z14 -11.044, z23 25.585, z34 23.764
+   raw      z12  -2.24% z13  -5.37% z14  +8.04% z23  -1.75% z34  +2.95% | peak chi2 / two-band 0.9560
+   raw+100  z12 -14.92% z13 -25.32% z14 +14.81% z23  +2.88% z34  +7.36% | peak chi2 / two-band 0.7277
+   norm     z12  -8.10% z13 -13.65% z14  -4.60% z23 -10.20% z34 -11.60% | peak chi2 / two-band 0.7975
+   GS       z12  +4.96% z13  +4.73% z14  +3.14% z23  +2.34% z34  +4.12% | peak chi2 / two-band 1.0910
+   L-bound  z12  -0.03% z13  +0.03% z14  +5.42% z23  -0.07% z34  +0.45% | peak chi2 / two-band 1.0006
+   1st      z12  -0.08% z13  -0.07% z14  +5.60% z23  -0.11% z34  +0.45% | peak chi2 / two-band 0.9992
+   1st-all  z12  -0.53% z13  -0.51% z14  -1.47% z23  -0.51% z34  -1.18% | peak chi2 / two-band 0.9833
+   L-b2     z12  +0.12% z13  +0.08% z14  +3.45% z23  -0.05% z34  +0.36% | peak chi2 / two-band 1.0035
+   L-b10    z12  +0.06% z13  +0.19% z14  +0.61% z23  +0.04% z34  +0.08% | peak chi2 / two-band 1.0010
+   L-E0.5   z12  +0.04% z13  +0.13% z14  +0.51% z23  +0.07% z34  +0.14% | peak chi2 / two-band 1.0005
+   L-E1.0   z12  +0.05% z13  +0.06% z14  +0.38% z23  +0.02% z34  +0.09% | peak chi2 / two-band 1.0009
+   L-E2.0   z12  +0.05% z13  +0.06% z14  +0.35% z23  +0.02% z34  +0.06% | peak chi2 / two-band 1.0008
+   L-all    z12  +0.05% z13  +0.06% z14  +0.34% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0008
+== TW padding 400 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1978, 0.3195], max one-band overlap 0.0254, two-band overlap 2.9e-13, light-particle weight [0.0656, 0.0621, 0.1269, 0.2037, 0.2225], states in 0.5/1/2 eV buffers [15, 27, 50]
+   two-band dipoles (A): z12 -12.535, z13 -12.161, z14 -11.044, z23 25.585, z34 23.764
+   raw      z12  -2.24% z13  -5.37% z14  +8.04% z23  -1.75% z34  +2.95% | peak chi2 / two-band 0.9560
+   raw+100  z12 -14.92% z13 -25.32% z14 +14.81% z23  +2.88% z34  +7.36% | peak chi2 / two-band 0.7277
+   norm     z12  -8.10% z13 -13.65% z14  -4.60% z23 -10.20% z34 -11.60% | peak chi2 / two-band 0.7975
+   GS       z12  +4.96% z13  +4.73% z14  +3.14% z23  +2.34% z34  +4.12% | peak chi2 / two-band 1.0910
+   L-bound  z12  -0.03% z13  +0.03% z14  +5.42% z23  -0.07% z34  +0.45% | peak chi2 / two-band 1.0006
+   1st      z12  -0.08% z13  -0.07% z14  +5.60% z23  -0.11% z34  +0.45% | peak chi2 / two-band 0.9992
+   1st-all  z12  -0.52% z13  -0.51% z14  -1.41% z23  -0.51% z34  -1.17% | peak chi2 / two-band 0.9836
+   L-b2     z12  +0.01% z13  +0.04% z14  +5.05% z23  -0.06% z34  +0.41% | peak chi2 / two-band 1.0013
+   L-b10    z12  +0.05% z13  +0.19% z14  +0.63% z23  +0.11% z34  +0.07% | peak chi2 / two-band 1.0006
+   L-E0.5   z12  +0.06% z13  +0.14% z14  +0.52% z23  +0.04% z34  +0.15% | peak chi2 / two-band 1.0008
+   L-E1.0   z12  +0.04% z13  +0.07% z14  +0.41% z23  +0.01% z34  +0.09% | peak chi2 / two-band 1.0007
+   L-E2.0   z12  +0.05% z13  +0.06% z14  +0.35% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0009
+   L-all    z12  +0.05% z13  +0.06% z14  +0.35% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0009
+== TW padding 800 A: 5 bound (edge 0.471 eV), E [0.0691, 0.1297, 0.1978, 0.3195], max one-band overlap 0.0253, two-band overlap 1.1e-13, light-particle weight [0.0656, 0.0621, 0.1269, 0.2037, 0.2222], states in 0.5/1/2 eV buffers [23, 45, 84]
+   two-band dipoles (A): z12 -12.535, z13 -12.161, z14 -11.044, z23 25.585, z34 23.764
+   raw      z12  -2.24% z13  -5.37% z14  +8.04% z23  -1.75% z34  +2.95% | peak chi2 / two-band 0.9560
+   raw+100  z12 -14.92% z13 -25.32% z14 +14.81% z23  +2.88% z34  +7.36% | peak chi2 / two-band 0.7277
+   norm     z12  -8.10% z13 -13.65% z14  -4.60% z23 -10.20% z34 -11.60% | peak chi2 / two-band 0.7975
+   GS       z12  +4.96% z13  +4.73% z14  +3.14% z23  +2.34% z34  +4.12% | peak chi2 / two-band 1.0910
+   L-bound  z12  -0.03% z13  +0.03% z14  +5.42% z23  -0.07% z34  +0.46% | peak chi2 / two-band 1.0006
+   1st      z12  -0.08% z13  -0.07% z14  +5.61% z23  -0.11% z34  +0.45% | peak chi2 / two-band 0.9992
+   1st-all  z12  -0.52% z13  -0.50% z14  -1.41% z23  -0.49% z34  -1.14% | peak chi2 / two-band 0.9836
+   L-b2     z12  -0.02% z13  +0.03% z14  +5.35% z23  -0.07% z34  +0.44% | peak chi2 / two-band 1.0008
+   L-b10    z12  +0.06% z13  +0.30% z14  +0.66% z23  +0.20% z34  +0.24% | peak chi2 / two-band 1.0003
+   L-E0.5   z12  +0.05% z13  +0.13% z14  +0.51% z23  +0.06% z34  +0.16% | peak chi2 / two-band 1.0006
+   L-E1.0   z12  +0.05% z13  +0.06% z14  +0.38% z23  +0.02% z34  +0.09% | peak chi2 / two-band 1.0010
+   L-E2.0   z12  +0.05% z13  +0.06% z14  +0.35% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0009
+   L-all    z12  +0.05% z13  +0.06% z14  +0.35% z23  +0.02% z34  +0.07% | peak chi2 / two-band 1.0009
+== SQW padding 100 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3322], max one-band overlap 0.0000, two-band overlap 1.6e-14, light-particle weight [0.0772, 0.1891], states in 0.5/1/2 eV buffers [3, 6, 13]
+   two-band dipoles (A): z12 15.748
+   raw      z12  +4.83%
+   raw+100  z12  +4.83%
+   norm     z12  -7.38%
+   GS       z12  +4.83%
+   L-bound  z12  +4.83%
+   1st      z12  +4.83%
+   1st-all  z12  -0.98%
+   L-b2     z12  +0.47%
+   L-b10    z12  +0.27%
+   L-E0.5   z12  +0.50%
+   L-E1.0   z12  +0.32%
+   L-E2.0   z12  +0.27%
+   L-all    z12  +0.26%
+== SQW padding 150 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3317], max one-band overlap 0.0000, two-band overlap 3.6e-14, light-particle weight [0.077, 0.1863], states in 0.5/1/2 eV buffers [4, 9, 17]
+   two-band dipoles (A): z12 15.776
+   raw      z12  +4.94%
+   raw+100  z12  +4.94%
+   norm     z12  -7.16%
+   GS       z12  +4.94%
+   L-bound  z12  +4.94%
+   1st      z12  +4.94%
+   1st-all  z12  -0.79%
+   L-b2     z12  +1.15%
+   L-b10    z12  +0.35%
+   L-E0.5   z12  +0.44%
+   L-E1.0   z12  +0.34%
+   L-E2.0   z12  +0.33%
+   L-all    z12  +0.33%
+== SQW padding 200 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3316], max one-band overlap 0.0000, two-band overlap 1.8e-14, light-particle weight [0.077, 0.1861], states in 0.5/1/2 eV buffers [6, 12, 22]
+   two-band dipoles (A): z12 -15.778
+   raw      z12  +4.94%
+   raw+100  z12  +4.94%
+   norm     z12  -7.15%
+   GS       z12  +4.94%
+   L-bound  z12  +4.94%
+   1st      z12  +4.94%
+   1st-all  z12  -0.67%
+   L-b2     z12  +1.92%
+   L-b10    z12  +0.42%
+   L-E0.5   z12  +0.45%
+   L-E1.0   z12  +0.39%
+   L-E2.0   z12  +0.36%
+   L-all    z12  +0.35%
+== SQW padding 300 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3316], max one-band overlap 0.0000, two-band overlap 3.2e-14, light-particle weight [0.077, 0.186], states in 0.5/1/2 eV buffers [9, 16, 31]
+   two-band dipoles (A): z12 -15.778
+   raw      z12  +4.94%
+   raw+100  z12  +4.94%
+   norm     z12  -7.14%
+   GS       z12  +4.94%
+   L-bound  z12  +4.94%
+   1st      z12  +4.94%
+   1st-all  z12  -0.57%
+   L-b2     z12  +3.10%
+   L-b10    z12  +0.46%
+   L-E0.5   z12  +0.58%
+   L-E1.0   z12  +0.43%
+   L-E2.0   z12  +0.38%
+   L-all    z12  +0.38%
+== SQW padding 400 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3316], max one-band overlap 0.0000, two-band overlap 1.2e-14, light-particle weight [0.077, 0.186], states in 0.5/1/2 eV buffers [11, 22, 40]
+   two-band dipoles (A): z12 -15.778
+   raw      z12  +4.94%
+   raw+100  z12  +4.94%
+   norm     z12  -7.14%
+   GS       z12  +4.94%
+   L-bound  z12  +4.94%
+   1st      z12  +4.94%
+   1st-all  z12  -0.52%
+   L-b2     z12  +3.81%
+   L-b10    z12  +0.58%
+   L-E0.5   z12  +0.63%
+   L-E1.0   z12  +0.43%
+   L-E2.0   z12  +0.39%
+   L-all    z12  +0.39%
+== SQW padding 800 A: 2 bound (edge 0.520 eV), E [0.1031, 0.3316], max one-band overlap 0.0000, two-band overlap 8.9e-14, light-particle weight [0.077, 0.186], states in 0.5/1/2 eV buffers [22, 42, 76]
+   two-band dipoles (A): z12 15.778
+   raw      z12  +4.94%
+   raw+100  z12  +4.94%
+   norm     z12  -7.14%
+   GS       z12  +4.94%
+   L-bound  z12  +4.94%
+   1st      z12  +4.94%
+   1st-all  z12  -0.43%
+   L-b2     z12  +4.70%
+   L-b10    z12  +1.44%
+   L-E0.5   z12  +0.57%
+   L-E1.0   z12  +0.45%
+   L-E2.0   z12  +0.41%
+   L-all    z12  +0.41%
+== ADQW matched K padding 200 A: 3 bound (edge 0.520 eV), E [0.0872, 0.2143, 0.337], max one-band overlap 0.0263, two-band overlap 6.6e-14, light-particle weight [0.061, 0.1208, 0.2257], states in 0.5/1/2 eV buffers [6, 13, 26]
+   two-band dipoles (A): z12 19.056, z13 8.048, z23 -24.694
+   raw      z12  +1.77% z13  +4.97% z23  +2.30% | peak chi2 / two-band 1.0897
+   raw+100  z12 +15.58% z13 -16.64% z23  +0.94% | peak chi2 / two-band 1.0088
+   norm     z12  -6.68% z13  -7.96% z23 -12.72% | peak chi2 / two-band 0.7529
+   GS       z12  +3.74% z13  +1.02% z23  +2.16% | peak chi2 / two-band 1.0695
+   L-bound  z12  +0.16% z13  +6.20% z23  +2.18% | peak chi2 / two-band 1.0813
+   1st      z12  +0.10% z13  +6.20% z23  +2.14% | peak chi2 / two-band 1.0802
+   1st-all  z12  -1.13% z13  -1.28% z23  -1.30% | peak chi2 / two-band 0.9636
+   L-b2     z12  +0.14% z13  +1.06% z23  +0.34% | peak chi2 / two-band 1.0144
+   L-b10    z12  -0.11% z13  -0.16% z23  -0.03% | peak chi2 / two-band 0.9969
+   L-E0.5   z12  -0.01% z13  +0.06% z23  -0.04% | peak chi2 / two-band 1.0001
+   L-E1.0   z12  -0.11% z13  -0.20% z23  -0.03% | peak chi2 / two-band 0.9966
+   L-E2.0   z12  -0.12% z13  -0.25% z23  -0.03% | peak chi2 / two-band 0.9961
+   L-all    z12  -0.12% z13  -0.26% z23  -0.03% | peak chi2 / two-band 0.9960
+== TW matched K padding 200 A: 5 bound (edge 0.471 eV), E [0.0699, 0.1305, 0.1992, 0.3201], max one-band overlap 0.0276, two-band overlap 1.9e-13, light-particle weight [0.0691, 0.0656, 0.1338, 0.2084, 0.2286], states in 0.5/1/2 eV buffers [8, 17, 32]
+   two-band dipoles (A): z12 -12.905, z13 -12.230, z14 -11.005, z23 25.817, z34 24.072
+   raw      z12  -2.38% z13  -5.81% z14  +7.32% z23  -1.93% z34  +3.11% | peak chi2 / two-band 0.9528
+   raw+100  z12 -15.64% z13 -26.84% z14 +13.97% z23  +2.96% z34  +8.23% | peak chi2 / two-band 0.7154
+   norm     z12  -8.54% z13 -14.45% z14  -5.58% z23 -10.78% z34 -11.91% | peak chi2 / two-band 0.7871
+   GS       z12  +5.12% z13  +4.75% z14  +2.28% z23  +2.41% z34  +4.36% | peak chi2 / two-band 1.0930
+   L-bound  z12  -0.06% z13  -0.14% z14  +4.86% z23  -0.12% z34  +0.32% | peak chi2 / two-band 1.0000
+   1st      z12  -0.12% z13  -0.26% z14  +5.08% z23  -0.18% z34  +0.31% | peak chi2 / two-band 0.9984
+   1st-all  z12  -0.59% z13  -0.68% z14  -2.26% z23  -0.59% z34  -1.35% | peak chi2 / two-band 0.9819
+   L-b2     z12  +0.21% z13  +0.32% z14  +0.68% z23  -0.03% z34  +0.53% | peak chi2 / two-band 1.0038
+   L-b10    z12  -0.02% z13  -0.11% z14  -0.20% z23  -0.02% z34  +0.03% | peak chi2 / two-band 0.9995
+   L-E0.5   z12  +0.02% z13  +0.01% z14  -0.07% z23  +0.01% z34  +0.05% | peak chi2 / two-band 1.0000
+   L-E1.0   z12  +0.01% z13  -0.09% z14  -0.24% z23  -0.03% z34  -0.01% | peak chi2 / two-band 1.0002
+   L-E2.0   z12  +0.01% z13  -0.10% z14  -0.26% z23  -0.04% z34  -0.02% | peak chi2 / two-band 1.0001
+   L-all    z12  +0.01% z13  -0.10% z14  -0.26% z23  -0.04% z34  -0.02% | peak chi2 / two-band 1.0001
+== SQW matched K padding 200 A: 2 bound (edge 0.520 eV), E [0.1042, 0.3323], max one-band overlap 0.0000, two-band overlap 6.1e-14, light-particle weight [0.0821, 0.1905], states in 0.5/1/2 eV buffers [6, 12, 22]
+   two-band dipoles (A): z12 15.855
+   raw      z12  +4.40%
+   raw+100  z12  +4.40%
+   norm     z12  -8.03%
+   GS       z12  +4.40%
+   L-bound  z12  +4.40%
+   1st      z12  +4.40%
+   1st-all  z12  -1.26%
+   L-b2     z12  +1.31%
+   L-b10    z12  -0.10%
+   L-E0.5   z12  -0.08%
+   L-E1.0   z12  -0.13%
+   L-E2.0   z12  -0.16%
+   L-all    z12  -0.16%
+== ADQW matched K padding 400 A: 3 bound (edge 0.520 eV), E [0.0872, 0.2143, 0.337], max one-band overlap 0.0263, two-band overlap 3.5e-14, light-particle weight [0.061, 0.1208, 0.2257], states in 0.5/1/2 eV buffers [12, 24, 44]
+   two-band dipoles (A): z12 19.056, z13 8.048, z23 -24.694
+   raw      z12  +1.77% z13  +4.97% z23  +2.30% | peak chi2 / two-band 1.0897
+   raw+100  z12 +15.58% z13 -16.64% z23  +0.94% | peak chi2 / two-band 1.0087
+   norm     z12  -6.68% z13  -7.96% z23 -12.72% | peak chi2 / two-band 0.7530
+   GS       z12  +3.74% z13  +1.02% z23  +2.16% | peak chi2 / two-band 1.0696
+   L-bound  z12  +0.16% z13  +6.20% z23  +2.18% | peak chi2 / two-band 1.0813
+   1st      z12  +0.10% z13  +6.20% z23  +2.14% | peak chi2 / two-band 1.0802
+   1st-all  z12  -1.11% z13  -0.91% z23  -1.17% | peak chi2 / two-band 0.9685
+   L-b2     z12  +0.20% z13  +3.35% z23  +1.18% | peak chi2 / two-band 1.0448
+   L-b10    z12  -0.02% z13  +0.16% z23  -0.03% | peak chi2 / two-band 1.0009
+   L-E0.5   z12  -0.02% z13  +0.12% z23  +0.00% | peak chi2 / two-band 1.0009
+   L-E1.0   z12  -0.12% z13  -0.13% z23  +0.02% | peak chi2 / two-band 0.9975
+   L-E2.0   z12  -0.12% z13  -0.17% z23  -0.00% | peak chi2 / two-band 0.9971
+   L-all    z12  -0.12% z13  -0.18% z23  -0.00% | peak chi2 / two-band 0.9970
+== TW matched K padding 400 A: 5 bound (edge 0.471 eV), E [0.0699, 0.1305, 0.1992, 0.3201], max one-band overlap 0.0277, two-band overlap 1.6e-13, light-particle weight [0.0691, 0.0656, 0.1338, 0.2083, 0.2284], states in 0.5/1/2 eV buffers [15, 28, 51]
+   two-band dipoles (A): z12 -12.905, z13 -12.230, z14 -11.005, z23 25.817, z34 24.071
+   raw      z12  -2.38% z13  -5.81% z14  +7.33% z23  -1.93% z34  +3.11% | peak chi2 / two-band 0.9528
+   raw+100  z12 -15.64% z13 -26.84% z14 +13.99% z23  +2.96% z34  +8.24% | peak chi2 / two-band 0.7154
+   norm     z12  -8.54% z13 -14.45% z14  -5.57% z23 -10.78% z34 -11.91% | peak chi2 / two-band 0.7871
+   GS       z12  +5.12% z13  +4.75% z14  +2.28% z23  +2.41% z34  +4.36% | peak chi2 / two-band 1.0930
+   L-bound  z12  -0.06% z13  -0.14% z14  +4.85% z23  -0.12% z34  +0.32% | peak chi2 / two-band 1.0000
+   1st      z12  -0.12% z13  -0.26% z14  +5.07% z23  -0.18% z34  +0.31% | peak chi2 / two-band 0.9984
+   1st-all  z12  -0.58% z13  -0.69% z14  -2.11% z23  -0.57% z34  -1.33% | peak chi2 / two-band 0.9824
+   L-b2     z12  -0.03% z13  -0.14% z14  +4.46% z23  -0.12% z34  +0.27% | peak chi2 / two-band 1.0007
+   L-b10    z12  +0.02% z13  +0.02% z14  +0.03% z23  +0.05% z34  -0.03% | peak chi2 / two-band 0.9999
+   L-E0.5   z12  +0.02% z13  -0.01% z14  -0.07% z23  -0.02% z34  +0.06% | peak chi2 / two-band 1.0001
+   L-E1.0   z12  +0.01% z13  -0.09% z14  -0.21% z23  -0.03% z34  -0.01% | peak chi2 / two-band 1.0002
+   L-E2.0   z12  +0.01% z13  -0.10% z14  -0.23% z23  -0.03% z34  -0.02% | peak chi2 / two-band 1.0001
+   L-all    z12  +0.01% z13  -0.10% z14  -0.23% z23  -0.03% z34  -0.02% | peak chi2 / two-band 1.0001
+== SQW matched K padding 400 A: 2 bound (edge 0.520 eV), E [0.1042, 0.3323], max one-band overlap 0.0000, two-band overlap 6.1e-15, light-particle weight [0.0821, 0.1905], states in 0.5/1/2 eV buffers [11, 22, 41]
+   two-band dipoles (A): z12 15.855
+   raw      z12  +4.40%
+   raw+100  z12  +4.40%
+   norm     z12  -8.02%
+   GS       z12  +4.40%
+   L-bound  z12  +4.40%
+   1st      z12  +4.40%
+   1st-all  z12  -1.11%
+   L-b2     z12  +3.23%
+   L-b10    z12  +0.04%
+   L-E0.5   z12  +0.10%
+   L-E1.0   z12  -0.09%
+   L-E2.0   z12  -0.13%
+   L-all    z12  -0.13%
+== summary: largest |error| (%) over allowed transitions and paddings
+ADQW (paddings [100, 150, 200, 300, 400, 800]): raw 5.62, raw+100 16.40, norm 12.28, GS 3.88, L-bound 6.82, 1st 6.83, 1st-all 1.21, L-b2 5.84, L-b10 1.08, L-E0.5 0.76, L-E1.0 0.55, L-E2.0 0.50, L-all 0.49
+   peak chi2 error (%): raw +9.73..+10.03, raw+100 +1.90..+2.10, norm -23.28..-22.92, GS +7.99..+8.20, L-bound +8.88..+9.08, 1st +8.77..+8.97, 1st-all -3.10..-1.83, L-b2 +0.71..+7.82, L-b10 +0.38..+1.91, L-E0.5 +0.67..+1.02, L-E1.0 +0.42..+0.73, L-E2.0 +0.38..+0.68, L-all +0.36..+0.66
+TW (paddings [100, 150, 200, 300, 400, 800]): raw 8.04, raw+100 25.52, norm 13.74, GS 4.96, L-bound 5.43, 1st 5.61, 1st-all 1.86, L-b2 5.35, L-b10 0.66, L-E0.5 0.59, L-E1.0 0.41, L-E2.0 0.35, L-all 0.35
+   peak chi2 error (%): raw -4.45..-4.40, raw+100 -27.31..-27.23, norm -20.31..-20.25, GS +9.07..+9.10, L-bound +0.06..+0.10, 1st -0.08..-0.03, 1st-all -1.74..-1.64, L-b2 -0.07..+0.46, L-b10 +0.01..+0.10, L-E0.5 +0.05..+0.14, L-E1.0 +0.07..+0.10, L-E2.0 +0.08..+0.09, L-all +0.08..+0.09
+SQW (paddings [100, 150, 200, 300, 400, 800]): raw 4.94, raw+100 4.94, norm 7.38, GS 4.94, L-bound 4.94, 1st 4.94, 1st-all 0.98, L-b2 4.70, L-b10 1.44, L-E0.5 0.63, L-E1.0 0.45, L-E2.0 0.41, L-all 0.41
+== summary (matched K): largest |error| (%) over allowed transitions and paddings
+ADQW (paddings [200, 400]): raw 4.97, raw+100 16.64, norm 12.72, GS 3.74, L-bound 6.20, 1st 6.20, 1st-all 1.30, L-b2 3.35, L-b10 0.16, L-E0.5 0.12, L-E1.0 0.20, L-E2.0 0.25, L-all 0.26
+   peak chi2 error (%): raw +8.97..+8.97, raw+100 +0.87..+0.88, norm -24.71..-24.70, GS +6.95..+6.96, L-bound +8.13..+8.13, 1st +8.02..+8.02, 1st-all -3.64..-3.15, L-b2 +1.44..+4.48, L-b10 -0.31..+0.09, L-E0.5 +0.01..+0.09, L-E1.0 -0.34..-0.25, L-E2.0 -0.39..-0.29, L-all -0.40..-0.30
+TW (paddings [200, 400]): raw 7.33, raw+100 26.84, norm 14.45, GS 5.12, L-bound 4.86, 1st 5.08, 1st-all 2.26, L-b2 4.46, L-b10 0.20, L-E0.5 0.07, L-E1.0 0.24, L-E2.0 0.26, L-all 0.26
+   peak chi2 error (%): raw -4.72..-4.72, raw+100 -28.46..-28.46, norm -21.29..-21.29, GS +9.30..+9.30, L-bound -0.00..+0.00, 1st -0.16..-0.16, 1st-all -1.81..-1.76, L-b2 +0.07..+0.38, L-b10 -0.05..-0.01, L-E0.5 +0.00..+0.01, L-E1.0 +0.02..+0.02, L-E2.0 +0.01..+0.01, L-all +0.01..+0.01
+SQW (paddings [200, 400]): raw 4.40, raw+100 4.40, norm 8.03, GS 4.40, L-bound 4.40, 1st 4.40, 1st-all 1.26, L-b2 3.23, L-b10 0.10, L-E0.5 0.10, L-E1.0 0.13, L-E2.0 0.16, L-all 0.16
+== |1st - L-bound| (percentage points), largest; 1st-all errors
+0.22135364744648722
+ADQW 200 A: 1st-all z12 -0.89% z13 -0.59% z23 -1.10%
+TW 200 A: 1st-all z12 -0.54% z13 -0.51% z14 -1.58% z23 -0.52% z34 -1.20%
+SQW 200 A: 1st-all z12 -0.67%
