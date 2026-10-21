@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444555.svg)](https://doi.org/10.5281/zenodo.23444555)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23444554.svg)](https://doi.org/10.5281/zenodo.23444554)
 
 # Dipoles of nonparabolic quantum-well states: why orthonormalizing the bound states is not enough
 
